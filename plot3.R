@@ -1,4 +1,4 @@
-plot3 <- function()
+plot3 <- function(file)
 {
   library(sqldf)
   
