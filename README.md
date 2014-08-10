@@ -1,6 +1,6 @@
 ## Introduction
 
-This project contain R source files and output PNG files for Exploratory Data Analysis course project 1. Complete details about the project is availble in https://github.com/vinaykk/ExData_Plotting1/blob/master/ProjectDetails.md 
+This project contain R source files and output PNG files for Exploratory Data Analysis course project 1. Complete details about the project is availble in https://github.com/vinaykk/ExData_Plotting1/blob/master/Project%20Details.md 
 
 
 ### Steps to run project
